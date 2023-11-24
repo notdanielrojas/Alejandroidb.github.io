@@ -4,7 +4,7 @@ body {
 img {
     width: 300px;
 }
-.title {
+.title h1 {
     display: flex;
     justify-content: center;
 }
