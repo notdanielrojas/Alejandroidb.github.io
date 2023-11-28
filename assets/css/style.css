@@ -1,5 +1,6 @@
 body {
-  background-color: azure;
+  background-color: aliceblue;
+  background-image: url(../imgs/bgschool.jpg);
 }
 img {
   width: 300px;
