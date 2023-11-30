@@ -7,3 +7,6 @@ https://alejandroidb.github.io/Desafio_02_Landing/
 https://alejandroidb.github.io/Desafio_03_Iguana/
 https://alejandroidb.github.io/Desafio_04_Cuppon/
 
+Fork realizados https://github.com/Alejandroidb/Modulo01_Desafio_06
+https://github.com/Alejandroidb/Modulo1_Proyecto_Final
+
